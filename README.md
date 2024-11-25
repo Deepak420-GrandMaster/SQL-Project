@@ -1,10 +1,9 @@
-# SQL-Project
+# SQL-Project! ![284079384-95180ab6-019c-4ba1-9165-e9449cb95614](https://github.com/user-attachments/assets/e127ad13-5a2b-46e1-a844-bbe2a1a9b897)
+
+
 
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 ## Exploring Trends in Automotive Industry
-
- [Exploring Trends in Automotive Industry.csv](Exploring Trends in Automotive Industry.sql) 
-
 
 ## Project Description
 
